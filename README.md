@@ -2,7 +2,8 @@
 
 **`Estudante de Engenharia de Software.`**
 
-Opa! Sou o Derick, tenho 19 anos. Terminei meu ensino médio no Salette Scott dos Santos e recentemente ingressei na faculdade de Engenharia de Software. Comecei a programar criando o (https://discord.gg/4mcup) e o (https://discord.gg/4mpvp) no FiveM - um focado em campeonatos com apostas e outro em PvP.
+Opa! Sou o Derick, tenho 19 anos e ingressei na faculdade de Engenharia de Software em 2025.
+Minha primeira experiência na programação começou de um jeito bem diferente: desenvolvi dois servidores no FiveM, uma plataforma de servidores Mods multiplayer para GTA V — um focado em campeonatos com sistema de apostas (discord.gg/4mcup) e outro voltado para PvP (discord.gg/4mpvp). Foi construindo esses projetos que percebi que queria levar isso a sério.
 
 <p align="left">
     <a href="https://github.com/MintyDk?tab=repositories&sort=stargazers">
