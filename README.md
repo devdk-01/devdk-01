@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Dev Dk
-**`Engenheiro de Software em formação · Aberto a oportunidades`**
+**`Engenheiro de Software em formação · Empreendedor · Aberto a oportunidades`**
 
-Sou o Derick, 19 anos, cursando Engenharia de Software desde 2025. Antes mesmo da faculdade, já estava construindo sistemas reais: desenvolvi dois servidores no **FiveM** (plataforma de mods multiplayer para GTA V) com arquitetura, lógica de negócio e economia virtual do zero. Foi aí que a programação deixou de ser hobby e virou carreira.
+Sou o Derick, 19 anos, cursando Engenharia de Software desde 2025. Minha motivação pra programar veio de um problema real: **precisava de dinheiro**. Em vez de procurar emprego, decidi empreender — e construí meu próprio negócio do zero dentro do FiveM.
 
 > 💼 Disponível para **freelas, projetos e primeira oportunidade** na área de desenvolvimento.
 
@@ -16,13 +16,19 @@ Sou o Derick, 19 anos, cursando Engenharia de Software desde 2025. Antes mesmo d
 
 ---
 
-### 🏆 Projetos em Destaque
+### 🏆 4MCup — Meu Negócio
 
-**[4MCup](https://discord.gg/4mcup) — Campeonatos com Sistema de Apostas**
-Servidor competitivo para GTA V com **sistema de apostas proprietário**, ranking em tempo real, gerenciamento de campeonatos e economia virtual. Projeto com comunidade ativa e geração de receita real.
+Servidor competitivo no FiveM com formato **Battle Royale entre times**, onde cada campeonato movimenta dinheiro real.
 
-**[4MPvP](https://discord.gg/4mpvp) — Servidor PvP Competitivo**
-Servidor focado em combate multiplayer com mecânicas customizadas de PvP, desenvolvido inteiramente em Lua.
+**Como funciona:**
+- 🏁 O staff lança um campeonato com **premiação de R$ 40**
+- 💰 Cada time paga **R$ 5** para se inscrever
+- 👥 Máximo de **20 times** por campeonato — vagas limitadas geram urgência
+- 📈 Receita bruta por campeonato: **R$ 100** → margem de **R$ 60** após o prêmio
+
+> Um modelo simples, escalável e já validado. Quanto mais campeonatos simultâneos, maior a receita.
+
+🔗 [Entrar no Discord](https://discord.gg/4mcup)
 
 ---
 
