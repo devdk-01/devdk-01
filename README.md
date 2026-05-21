@@ -7,21 +7,16 @@ Sou o Derick, 19 anos, cursando Engenharia de Software desde 2025. Minha motiva�
 > 💼 Disponível para **freelas, projetos e primeira oportunidade** na área de desenvolvimento.
 
 <p align="left">
-
   <a href="https://github.com/MintyDk?tab=repositories&sort=stargazers">
-
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MintyDk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
-
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MintyDk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/MintyDk?tab=followers">
-
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MintyDk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MintyDk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
-
 </p>
 
+&nbsp;
 ---
 
 ### 🏆 4MCUP — Campeonatos Estilo Battle Royale
