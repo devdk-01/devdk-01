@@ -19,7 +19,7 @@ Sou o Derick, 19 anos, cursando Engenharia de Software desde 2025. Minha motiva�
 &nbsp;
 ---
 
-### 🏆 4MCUP — Campeonatos Estilo Battle Royale
+### 4MCUP — Campeonatos Estilo Battle Royale
 
 Comecei com um problema simples: precisava de dinheiro. A solução foi criar um projeto então criei um servidor competitivo no FiveM com formato **Battle Royale entre times** escalou até atingir **90 jogadores por campeonato**.
 
@@ -39,7 +39,7 @@ Comecei com um problema simples: precisava de dinheiro. A solução foi criar um
 
 ---
 
-### ⚔️ 4MPvP — Servidor PvP Competitivo
+### 4MPvP — Servidor PvP Competitivo
 
 Com o sucesso do 4MCup, expandi para um segundo servidor com foco em **PvP contínuo e acessível**. O jogador entra, escolhe um dos **4 times** e vai direto pra ação — sem fila, sem inscrição. Os times disputam por **dominação de mapa**, e quando um time vence, o mapa troca automaticamente.
 
